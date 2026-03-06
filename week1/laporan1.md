@@ -6,5 +6,5 @@
 3. dst
 
 ## Lampiran
-Hasil percobaan :
+Pertama, buka wireshark pencet dua kali tulisan “wifi”:
 ![Hasil percobaan](../assets/image/week1.png)

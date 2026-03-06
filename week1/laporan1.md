@@ -6,5 +6,5 @@
 3. dst
 
 ## Lampiran
-Hasil percobaan:
-![Hasil Percobaan](../assets/image/week1.png)
+Hasil percobaan :
+![Hasil percobaan](../assets/image/week1.png)
